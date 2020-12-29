@@ -1,0 +1,22 @@
+#container{
+    width:45%;
+    height:50%;
+}
+#flex{
+    width:1366px;
+    height:500px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: stretch;
+}
+canvas{
+    background-color: #f1f1f1;
+}
+
+#texto-grafico{
+    width: 45%;
+    height: 50%;
+    justify-content: space-around;
+    background-color: #f1f1f1;
+}
